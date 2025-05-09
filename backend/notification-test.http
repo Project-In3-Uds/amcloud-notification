@@ -1,7 +1,7 @@
 ### Envoyer une notification
 POST http://localhost:8085/api/notifications/send
 Content-Type: application/json
-Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTc0NTg3NjI3MywiZXhwIjoxNzQ1ODc5ODczfQ.yyh7BGVGoozCuZ0a78CGJV18syxjE1wu1iUQrnJ6g9o
+Authorization: Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhZG1pbiIsImlhdCI6MTc0Njc1ODQ0MCwiZXhwIjoxNzQ2NzYyMDQwfQ.UjiENMp2SAKpw2f-7_40_aSnO3IGBEHqkvvx2AM0RjE
 
 {
   "to": "andersonmetsanoum@gmail.com",
