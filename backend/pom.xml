@@ -101,6 +101,13 @@
 			<artifactId>dotenv-java</artifactId>
 			<version>3.0.0</version>
 		</dependency>
+
+		<!-- amcloud Security Shared -->
+		<dependency>
+		  <groupId>cm.amcloud.platform</groupId>
+		  <artifactId>amcloud-security-shared</artifactId>
+	      <version>0.0.1-SNAPSHOT</version>
+        </dependency>
 	</dependencies>
 
 	<build>
